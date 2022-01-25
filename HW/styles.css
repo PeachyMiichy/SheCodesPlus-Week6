@@ -1,0 +1,79 @@
+.outline {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+body {
+  font-weight: 500;
+}
+
+#currTemp {
+  display: inline;
+  font-size: 80px;
+}
+
+#day,
+#date,
+#time {
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.left-card {
+  width: 90%;
+}
+
+.right-card {
+  position: relative;
+  width: 115%;
+  left: -40px;
+}
+.search {
+  padding: 10px 0px 0px 10px;
+}
+
+.col-sm-6 {
+  padding-bottom: 20px;
+}
+
+.btn-info {
+  width: 60px;
+  height: 37px;
+  font-size: 10px;
+}
+
+#location {
+  font-size: 50px;
+  margin-top: 10px auto;
+}
+
+#cel,
+#fah {
+  color: rgb(0, 181, 253);
+}
+
+#cel:hover,
+#fah:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+#curr-emoji {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 100px;
+}
+
+.card-header {
+  font-size: 15px;
+  text-align: center;
+}
+
+.forecast-emoji {
+  font-size: 40px;
+}
