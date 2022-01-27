@@ -24,6 +24,10 @@ body {
   margin-bottom: 0;
 }
 
+#src-code-sign-off {
+  text-align: center;
+}
+
 .left-card {
   width: 90%;
 }
